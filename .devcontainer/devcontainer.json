@@ -1,3 +1,4 @@
+[
 {
   // Name this configuration
   "name": "Codespace for Skills!",
@@ -23,4 +24,4 @@
 }
 ,
  "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
-
+]
